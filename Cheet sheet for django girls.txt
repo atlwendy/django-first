@@ -1,0 +1,7 @@
+Cheet sheet for django girls
+
+Using python 2.7
+
+sudo pip install virtualenv
+virtualenv --python=python dgenv
+source dgenv/bin/activate
